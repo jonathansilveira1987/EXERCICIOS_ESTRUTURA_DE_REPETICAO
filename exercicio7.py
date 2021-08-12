@@ -1,5 +1,5 @@
 # 7. Faça um programa que leia 5 números e informe o maior número.
-# Desenvolvido por Jonathan Silveira - Instagram: @ jonathandev01
+# Desenvolvido por Jonathan Silveira - Instagram: @jonathandev01
 
 print("\nVocê vai informar 5 números e eu vou dizer qual deles é o maior")
 print("Digite apenas números inteiros\n")

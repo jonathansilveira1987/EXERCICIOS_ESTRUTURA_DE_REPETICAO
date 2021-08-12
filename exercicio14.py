@@ -1,6 +1,6 @@
 # 14. Faça um programa que peça 10 números inteiros, calcule e mostre a 
 # quantidade de números pares e a quantidade de números impares.
-# Desenvolvido por Jonathan Silveira - Instagram: @ jonathandev01
+# Desenvolvido por Jonathan Silveira - Instagram: @jonathandev01
 
 import math
 numero = [[], []]

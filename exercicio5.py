@@ -1,6 +1,6 @@
 # 5. Altere o programa anterior permitindo ao usuário informar as populações e as taxas de 
 # crescimento iniciais. Valide a entrada e permita repetir a operação.
-# Desenvolvido por Jonathan Silveira - Instagram: @ jonathandev01
+# Desenvolvido por Jonathan Silveira - Instagram: @jonathandev01
 
 print("\nSolução desenvolvida por Jonathan Silveira\n")
 popA = float(input("Digite atual população da cidade A: "))

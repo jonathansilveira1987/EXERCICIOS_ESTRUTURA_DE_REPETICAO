@@ -6,7 +6,7 @@
 # 5 X 2 = 10
 # ...
 # 5 X 10 = 50
-# Desenvolvido por Jonathan Silveira - Instagram: @ jonathandev01
+# Desenvolvido por Jonathan Silveira - Instagram: @jonathandev01
 
 j = int(input("Digite o número o qual deseja obter a tabuada correspondente: "))
 x = 0

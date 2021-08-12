@@ -1,5 +1,5 @@
 # 8. Faça um programa que leia 5 números e informe a soma e a média dos números.
-# Desenvolvido por Jonathan Silveira - Instagram: @ jonathandev01
+# Desenvolvido por Jonathan Silveira - Instagram: @jonathandev01
 
 print("\nVocê vai informar 5 números e eu vou calcular a méida entre eles")
 num1 = float(input("Digite o primeiro número: "))

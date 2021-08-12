@@ -4,7 +4,7 @@
 # Salário: maior que zero;
 # Sexo: 'f' ou 'm';
 # Estado Civil: 's', 'c', 'v', 'd';
-# Desenvolvido por Jonathan Silveira - Instagram: @ jonathandev01
+# Desenvolvido por Jonathan Silveira - Instagram: @jonathandev01
 
 # nome
 nome = str(input("Digite o nome: "))

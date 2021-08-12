@@ -1,5 +1,5 @@
 # 11. Altere o programa anterior para mostrar no final a soma dos números.
-# Desenvolvido por Jonathan Silveira - Instagram: @ jonathandev01
+# Desenvolvido por Jonathan Silveira - Instagram: @jonathandev01
 
 num1 = int(input("Digite o primeiro número inteiro: "))
 num2 = int(input("Digite o segundo número inteiro: "))
